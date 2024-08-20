@@ -1,30 +1,240 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "491e",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "2a87",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b05d",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "e9c9",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "c471",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b528",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5166",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4191",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "004d",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b3e6",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "d010",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3bdc",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "aa72",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "7269",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "7705",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "7bc2",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8dfc",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "0ab7",
+      "name": "Yasser Alariqi",
+      "email": "yasser@gmail.com"
+    },
+    {
+      "id": "00ec",
+      "name": "Ali",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "cfe2",
+      "name": "Ali",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "5376",
+      "name": "Ali",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "ec9e",
+      "name": "Ali",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "6226",
+      "name": "Ali",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "664f",
+      "name": "Ali",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "397f",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "e4e9",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "3237",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "8d25",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "65de",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "30e3",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "0cab",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "a58f",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "e768",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "1845",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "f604",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "5915",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "2b4e",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "8907",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "8439",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "fdf5",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    },
+    {
+      "id": "47db",
+      "name": "mohammed",
+      "email": "Ali@gmail.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
